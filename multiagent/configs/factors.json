@@ -1,0 +1,24 @@
+{
+  "agent_count": [
+    10,
+    25
+  ],
+  "obstacle_density": [
+    0.15,
+    0.35
+  ],
+  "communication": [
+    "none",
+    "limited"
+  ],
+  "disturbance": [
+    "none",
+    "moderate"
+  ],
+  "heuristic": [
+    "admissible",
+    "learned"
+  ],
+  "map_width": 32,
+  "map_height": 32
+}
